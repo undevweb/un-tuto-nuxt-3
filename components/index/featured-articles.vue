@@ -54,4 +54,3 @@ section h2 {
   justify-content: space-between;
 }
 </style>
-
